@@ -1,0 +1,31 @@
+{
+  "kill_sound_cs": {
+    "category": "ambient",
+    "sounds": [ "ive:kill_sound_cs" ]
+  },
+
+  "kill_sound_nl": {
+    "category": "ambient",
+    "sounds": [ "ive:kill_sound_nl" ]
+  },
+  "bell_sound": {
+    "category": "ambient",
+    "sounds": [ "ive:bell" ]
+  },
+  "kill_sound": {
+    "category": "ambient",
+    "sounds": [ "ive:kill" ]
+  },
+  "enable_sound": {
+    "category": "ambient",
+    "sounds": [ "ive:enable" ]
+  },
+  "disable_sound": {
+    "category": "ambient",
+    "sounds": [ "ive:disable" ]
+  },
+  "open_sound": {
+    "category": "ambient",
+    "sounds": [ "ive:open" ]
+  }
+}

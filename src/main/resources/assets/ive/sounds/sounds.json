@@ -1,0 +1,37 @@
+{
+  "kill_sound_cs": {
+    "category": "player",
+    "subtitle": "kill_sound_cs",
+    "sounds": [{ "name": "ive:kill_sound_cs.ogg", "stream": false }]
+  },
+  "kill_sound_nl": {
+    "category": "player",
+    "subtitle": "kill_sound_nl",
+    "sounds": [{ "name": "ive:kill_sound_nl.ogg", "stream": false }]
+  },
+  "bell_sound": {
+    "category": "player",
+    "subtitle": "bell_sound",
+    "sounds": [{ "name": "ive:bell.ogg", "stream": false }]
+  },
+  "kill_sound": {
+    "category": "player",
+    "subtitle": "kill_sound",
+    "sounds": [{ "name": "ive:kill.ogg", "stream": false }]
+  },
+  "enable_sound": {
+    "category": "player",
+    "subtitle": "enable_sound",
+    "sounds": [{ "name": "ive:enable.ogg", "stream": false }]
+  },
+  "disable_sound": {
+    "category": "player",
+    "subtitle": "disable_sound",
+    "sounds": [{ "name": "ive:disable.ogg", "stream": false }]
+  },
+  "open_sound": {
+    "category": "player",
+    "subtitle": "open_sound",
+    "sounds": [{ "name": "ive:open.ogg", "stream": false }]
+  }
+}

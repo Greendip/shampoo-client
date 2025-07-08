@@ -1,1 +1,2 @@
-# shampoo-client
+pyzo leak
+утечка пуза

@@ -1,0 +1,56 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "me.alpha432.oyvey.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+    "MixinClientConnection"
+  ],
+  "client": [
+    "MixinClientPlayerEntity",
+    "MixinClientPlayNetworkHandler",
+    "MixinInGameHud",
+    "MixinKeyboard",
+    "MixinRenderTickCounter",
+    "MixinWorldRenderer",
+    "MixinPlayerEntity",
+    "ILivingEntity",
+    "MixinInGameOverlayRenderer",
+    "ArmorFeatureRendererMixin",
+    "MixinBossBarHud",
+    "TitleScreenMixin",
+    "IPlayerMoveC2SPacket",
+    "ScreenMixin",
+    "InactivityFpsLimiterMixin",
+    "MinecraftClientMixin",
+    "GameRendererMixin",
+    "InGameOverlayRendererMixin",
+    "MixinMobSpawnerBlockEntityRenderer",
+    "ParticleManagerMixin",
+    "CameraMixin",
+    "LivingEntityMixin",
+    "MixinEntity",
+    "BeaconBlockEntityRendererMixin",
+    "LightmapTextureManagerMixin",
+    "BackgroundRendererMixin",
+    "PlayerPositionMixin",
+    "CustomPayloadC2SPacketAccessor",
+    "EndCrystalEntityRendererMixin",
+    "EntityVelocityUpdateS2CPacketAccessor",
+    "MixinParticle",
+    "TextColorAccessor",
+    "StyleAccessor",
+    "MixinTextVisitFactory",
+    "MixinChatHud",
+    "MixinPlayerListEntry",
+    "NativeImageAccessor",
+    "MixinClietnWorld",
+    "MixinHeldItemRenderer",
+    "MixinPlayerEntityRenderer",
+    "EndCrystalEntityModelMixin"
+
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
